@@ -7,13 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🎓 **Undergrad B.Tech Student** at CIEM, in the Department of Information Technology
+  
+- 🌱 **I’m currently learning** **Reactjs**
 
-- 💬 Ask me about **MERN,Databases**
+- 💬 **Ask me about** **MERN,Databases**
 
-- 📫 How to reach me **aindriladutta392@gmail.com**
+- 📫 **How to reach me** **aindriladutta392@gmail.com**
+  
+- ☕ **Coffee Enthusiast** who believes that a well-placed cup of coffee can solve any coding problem
 
-- ⚡ Fun fact: **My favorite debugging tool i a cup of coffee and a fresh perspective**
+- ⚡ **Fun fact** **I once built an entire website in a single weekend, fueled by coffee and creativity!**
+
+- 🚀 Let's build something amazing together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
