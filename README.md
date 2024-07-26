@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Aindrila Dutta</h1>
-<h3 align="center">Bringing Your Vision to Life, One Line of Code at a Time</h3>
+<h3 align="center">Bringing my Vision to Life, One Line of Code at a Time</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aindrilacodes&label=Profile%20views&color=0e75b6&style=flat" alt="aindrilacodes" /> </p>
