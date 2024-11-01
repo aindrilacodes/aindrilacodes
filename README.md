@@ -9,33 +9,110 @@
 
 - 🎓 **Undergrad B.Tech Student** at CIEM, in the Department of Information Technology
   
-- 🌱 **I’m currently learning** **Reactjs**
-
 - 💬 **Ask me about** **MERN,Databases**
 
 - 📫 **How to reach me** **aindriladutta392@gmail.com**
   
 - ☕ **Coffee Enthusiast** who believes that a well-placed cup of coffee can solve any coding problem
 
-- ⚡ **Fun fact** **I once built an entire website in a single weekend, fueled by coffee and creativity!**
 
 - 🚀 Let's build something amazing together!
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aindrila-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindrila-dutta" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_its_me_aindrila_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_its_me_aindrila_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aindriladutta79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aindriladutta79" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aindrila_ciem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aindrila_ciem/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aindrilad7di" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aindrilad7di" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/909017992891858974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/909017992891858974" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/aindrila-dutta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://www.instagram.com/_its_me_aindrila_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/aindriladutta79" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a></td>
+    <td><a href="https://leetcode.com/aindrila_ciem/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+    <td><a href="https://auth.geeksforgeeks.org/user/aindrilad7di" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a></td>
+    <td><a href="https://discord.com/users/909017992891858974" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a></td>
+  </tr>
+</table>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        <br>C
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <br>CSS3
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <br>HTML5
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <br>Java
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <br>MongoDB
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+        <br>MS SQL
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <br>MySQL
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <br>Node.js
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <br>Python
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <br>React
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aindrilacodes&show_icons=true&locale=en&layout=compact" alt="aindrilacodes" /></p>
+<br><br>
+
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aindrilacodes&show_icons=true&locale=en&layout=compact" alt="aindrilacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aindrilacodes&show_icons=true&locale=en" alt="aindrilacodes" /></p>
 
