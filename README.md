@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 **Undergrad B.Tech Student** at CIEM, in the Department of Information Technology
-  
-- 💬 **Ask me about** **MERN,Databases**
+🎓 **B.Tech Graduate** from **CIEM**, Department of Information Technology
 
-- 📫 **How to reach me** **aindriladutta392@gmail.com**
-  
-- ☕ **Coffee Enthusiast** who believes that a well-placed cup of coffee can solve any coding problem
+💬 **Ask me about:** MERN Stack, Backend Development, Databases, and Project Structuring
 
+📫 **Reach me at:** [aindriladutta392@gmail.com](mailto:aindriladutta392@gmail.com)
 
-- 🚀 Let's build something amazing together!
+☕ **Coffee Enthusiast** — firm believer that a good brew can fix more bugs than Stack Overflow
+
+🚀 Let's connect and build something impactful together!
+
 
 
 <h3 align="left">Connect with me:</h3>
